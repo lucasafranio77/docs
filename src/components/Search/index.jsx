@@ -46,7 +46,7 @@ class Search extends Component {
       <div className="search-docs">
         <form>
           <div className="input-text-wrap is-search">
-            <input type="text" id="query" placeholder="What are you looking for?" autoComplete="off" className="form-control search-hero__query search-query st-default-search-input" name="q" />
+            <input type="text" id="query" placeholder="O que você está procurando?" autoComplete="off" className="form-control search-hero__query search-query st-default-search-input" name="q" />
             <input type="button" value="Search" className="input-btn" />
           </div>
         </form>

@@ -21,7 +21,7 @@ class Index extends React.Component {
           {card.LINKS.map(link => <Link key={link.TEXTNODE} to={link.URL} className="card__link">{link.TEXTNODE}</Link>)}
         </div>
         <div className="card__button">
-          <Link className="btn center" to={card.BUTTON_LINK}>View All</Link>
+          <Link className="btn center" to={card.BUTTON_LINK}>Ver tudo</Link>
         </div>
       </div>
     ));
@@ -37,7 +37,7 @@ class Index extends React.Component {
           </div>
           <h3 className="card__title is-size-h2 m-bottom-2">{card.TITLE}</h3>
           <div className="is-p">{card.COPY}</div>
-          <Link to={card.LINK} className="btn btn-primary center">Get Started</Link>
+          <Link to={card.LINK} className="btn btn-primary center">Iniciar</Link>
         </div>
       );
     });
@@ -50,7 +50,7 @@ class Index extends React.Component {
         <div className="search-hero ta-center color-white">
           <div className="container">
             <div className="search-hero__bg">
-              <h1 className="page-title">Knowledge Center</h1>
+              <h1 className="page-title">Explore, Descubra & Aprenda.</h1>
               <Search />
             </div>
           </div>
@@ -65,7 +65,7 @@ class Index extends React.Component {
         <div className="main">
           <div className="home-featured">
             <div className="container">
-              <h2>Featured Resources</h2>
+              <h2>Destaques</h2>
               <div className="row row--home-cards">
                 {Index.renderCards()}
               </div>
