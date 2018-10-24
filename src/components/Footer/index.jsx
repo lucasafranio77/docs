@@ -24,6 +24,7 @@ class Footer extends Component {
   render() {
     return (
       <footer className="footer color-white">
+        {/*
         <div className="container-lg footer-container">
           {Footer.renderMenu(FOOTER_LINKS.SOLUTIONS)}
           {Footer.renderMenu(FOOTER_LINKS.SG_IS_FOR)}
@@ -31,6 +32,7 @@ class Footer extends Component {
           {Footer.renderMenu(FOOTER_LINKS.COMMUNITY)}
           {Footer.renderMenu(FOOTER_LINKS.COMPANY)}
         </div>
+        */}
 
         <hr />
 
@@ -40,8 +42,7 @@ class Footer extends Component {
               <SocialLinks />
             </div>
             <div className="col-md-6 footer__legal">
-              <a href="https://sendgrid.com/policies/tos/">Legal and Security</a>
-              <span className="footer__copy">&copy; 2018 SendGrid</span>
+              <span className="footer__copy">&copy; 2018 Infocorp</span>
             </div>
           </div>
         </div>
