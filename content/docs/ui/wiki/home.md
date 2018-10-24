@@ -13,22 +13,12 @@ Isso aqui é pra ser tipo a Wikipédia sobre a Infocorp, aqui você vai achar as
 E o melhor, é **VOCÊS** que nos ajudam a responder essas e muitas outras perguntas.
 Então não deixe de ver essas informações todos os dias neste mesmo batcanal.
 
-### **Menu**
-
-- [Nossa empresa](#nossa-empresa)
-  - [Gestão de pessoas](#gest%C3%A3o-de-pessoas)
-  - [Documentos](#documentos)
-  - [Marketing](#marketing)
-- [Tecnologias e conceitos utilizados](#tecnologias-e-conceitos-utilizados)
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
-- [Estudos](#estudos)
-
 ## Nossa empresa
 
 - **[Nossa história](História-Infocorp)**
 - [Infocorp como Programa de Extensão da UFMT](https://drive.google.com/file/d/0B6ECTaZ9Zh2waDVncEY5SG1pY1hJTVJoUHpWX19WWWxQTTlV/view?usp=sharing) - neste PDF você terá acesso a descrição do projeto Infocorp - Empresa Júnior no Edital de Projetos de Extensão da UFMT, esse programa terá o tempo de 2 anos, tendo inicio em 2018.
 
-**[⬆ Voltar ao topo](#menu)**
+  
 
 ### Gestão de pessoas
 
@@ -37,7 +27,7 @@ Então não deixe de ver essas informações todos os dias neste mesmo batcanal.
 - [Dicas para sua carreira e seu Linkedin](Dicas-para-sua-carreira)
 - [Como reservar sala/lab no IC](Reservar-sala-IC)
 
-**[⬆ Voltar ao topo](#menu)**
+  
 
 ### Documentos
 
@@ -49,7 +39,7 @@ Então não deixe de ver essas informações todos os dias neste mesmo batcanal.
 - [Material de Solicitação de hospedagem STI](solicitação-STI)
 - **[Projeto de Padronização (Em desenvolvimento)](Projeto-Padronização)**
 
-**[⬆ Voltar ao topo](#menu)**
+  
 
 ### Marketing
 
@@ -57,7 +47,7 @@ Então não deixe de ver essas informações todos os dias neste mesmo batcanal.
 - [Plano e Calendário de MKT](https://docs.google.com/spreadsheets/d/1-D_Y-WEvcmJTn9lojpHRPrRoty1smEpYtgQjdM343KA/edit?usp=sharing) - Aqui você encontrará os planos de postagens para as nossas redes sociais e também pode sugerir assuntos para serem trabalhados nelas
 - [Customer Flow](https://drive.google.com/open?id=1GcKHVFn2g41ibREDfOORo7ve1DVR98HaCi19yU9bU2Q) - esse material explica o fluxo do cliente e os processos que devem ser realizados pela equipe
 
-**[⬆ Voltar ao topo](#menu)**
+  
 
 ## Tecnologias e conceitos utilizados
 
@@ -114,7 +104,7 @@ Então não deixe de ver essas informações todos os dias neste mesmo batcanal.
 * **Jenkins**
   - [CI Jenkins](ci-jenkins)
 
-**[⬆ Voltar ao topo](#menu)**
+  
 
 ## Estudos
 
@@ -132,4 +122,4 @@ Então não deixe de ver essas informações todos os dias neste mesmo batcanal.
   - [Loop Matinal](http://www.loopmatinal.com/)
   - [Fiap X](https://www.fiap.com.br/fiapx/podcast)
 
-**[⬆ Voltar ao topo](#menu)**
+  
