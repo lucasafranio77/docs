@@ -30,7 +30,7 @@ class glossary extends React.Component {
   render() {
     return (
       <div className="container">
-        <SEO postNode={this.props} title="Glossary" description="SendGrid documentation glossary" />
+        <SEO postNode={this.props} title="Glossário" description="Glossário da documentação da Infocorp" />
         <h1>Glossary</h1>
         <div className="row">
           {Object.keys(this.glossary).map(key => (

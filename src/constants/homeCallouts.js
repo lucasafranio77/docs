@@ -6,9 +6,9 @@ const HOME_CALLOUTS = [
     LINK: '/ui/sending-email/how-to-send-email-with-marketing-campaigns/',
   },
   {
-    BADGE: 'development',
-    TITLE: 'API',
-    COPY: 'Use the SendGrid v3 REST API to build and send email.',
+    BADGE: 'estudos',
+    TITLE: 'Trilhas de Conhecimentos',
+    COPY: 'São as trilhas de áreas que queremos oferecer para os nossos membros, então acesse e dá uma olhada.',
     LINK: '/for-developers/sending-email/api-getting-started/',
   },
   {

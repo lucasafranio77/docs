@@ -3,6 +3,9 @@ import contacts from '../img/icon-contacts.svg';
 import analytics from '../img/icon-analytics.svg';
 import account from '../img/icon-account.svg';
 
+
+{/*# TODO: Pensar em adaptar os cards para a wiki da infocorp*/}
+
 const HOME_CARDS = [
   {
     ICON: plane,

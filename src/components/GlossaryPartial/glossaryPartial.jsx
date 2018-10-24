@@ -20,14 +20,14 @@ class GlossaryPartial extends Component {
         <div className="container home-glossary__container">
           <div className="row">
             <div className="col-md-12">
-              <h2>Glossary</h2>
-              <p className="ta-center">Not sure what something means? Find terms from our library sorted A-Z.</p>
+              <h2>Glossário</h2>
+              <p className="ta-center">Não tem certeza do que algo significa? Encontre termos da nossa biblioteca ordenados por A-Z.</p>
               <div className="row">
                 <div className="col-md-8">
                   <div className="card card--glossary">
                     <h3 className="card__title">{HEADER}</h3>
                     { GlossaryPartial.getLinks(ANCHORS) }
-                    <Link className="btn btn-primary" to={LINKS.GLOSSARY}>View All</Link>
+                    <Link className="btn btn-primary" to={LINKS.GLOSSARY}>Ver tudo</Link>
                   </div>
                 </div>
                 <div className="col-md-4">

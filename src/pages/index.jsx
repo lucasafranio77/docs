@@ -37,7 +37,7 @@ class Index extends React.Component {
           </div>
           <h3 className="card__title is-size-h2 m-bottom-2">{card.TITLE}</h3>
           <div className="is-p">{card.COPY}</div>
-          <Link to={card.LINK} className="btn btn-primary center">Iniciar</Link>
+          <Link to={card.LINK} className="btn btn-primary center">Começar</Link>
         </div>
       );
     });
