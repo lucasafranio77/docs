@@ -61,13 +61,12 @@ class DocTemplate extends React.Component {
           <div className="card card__feedback">
             <div className="card__inner">
               <h3 className="card__title" >Feedback</h3>
-              <p>If you have a question that needs an answer, please <a href="https://support.sendgrid.com" title="contact support" target="_blank" rel="noopener noreferrer">contact support</a>.
-                Otherwise, please <a href="https://github.com/sendgrid/docs/issues/new" title="open an issue in our GitHub" target="_blank" rel="noopener noreferrer">open an issue in our GitHub</a>!
-                Thanks for helping us improve our docs!
+              <p>
+                Se você tiver uma dica ou melhoria para a nossa wiki, é só <a href="https://gitlab.com/infocorp/wiki/issues/new" title="abrir uma issue no Gitlab" target="_blank" rel="noopener noreferrer">abrir uma issue no Gitlab</a> ou pode editar direto no <a href="https://gitlab.com/infocorp/wiki" title="projeto da wiki!" target="_blank" rel="noopener noreferrer">projeto da wiki !</a>  Obrigado por nos ajudar a melhorar nossos documentos!
               </p>
             </div>
           </div>
-          <div className="edit-this-page m-top-4 ta-center"><strong>See a mistake?</strong> <a href={this.getRepoLink()}>Edit this page</a></div>
+          <div className="edit-this-page m-top-4 ta-center"><strong>Viu um erro?</strong> <a href={this.getRepoLink()}>Edite está página</a></div>
         </div>
       </div>
     );

@@ -9,7 +9,7 @@ const HOME_CALLOUTS = [
     BADGE: 'estudos',
     TITLE: 'Trilhas de Conhecimentos',
     COPY: 'São as trilhas de áreas que queremos oferecer para os nossos membros, então acesse e dá uma olhada.',
-    LINK: '/for-developers/sending-email/api-getting-started/',
+    LINK: '/ui/wiki/trilhas-de-conhecimentos/',
   },
   {
     BADGE: 'development',

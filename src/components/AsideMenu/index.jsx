@@ -56,7 +56,7 @@ class AsideMenu extends Component {
 
     return (
       <aside className="aside-nav">
-        <div className="aside-nav__title is-size-h5">In the article</div>
+        <div className="aside-nav__title is-size-h5">Menu</div>
         {navItems.map((el) => {
             const {
               id,
