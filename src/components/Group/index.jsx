@@ -9,9 +9,7 @@ function Group(props) {
           permalink,
           title,
         } = doc.node.fields;
-
-        const docIsVisible = !!doc.node.frontmatter.navigation.show;
-
+        const docIsVisible = !!doc.node.frontmatter.navigation;
         return docIsVisible ? <Link key={permalink} to={permalink} dangerouslySetInnerHTML={{ __html: title }} /> : null;
       })}
     </div>
@@ -19,4 +17,3 @@ function Group(props) {
 }
 
 export default Group;
-
